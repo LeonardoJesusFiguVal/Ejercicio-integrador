@@ -31,4 +31,4 @@ B) Desarrollar el método main del proyecto y generar las instancias necesarias 
 
 ## Diagrama de clases
 
-WIP
+![](https://i.imgur.com/FHw7zmx.png)
